@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PETitcare</string>
+    <string name="buttonFormLogin">Iniciar Sesión</string>
+    <string name="nameUser">Username or Email</string>
+    <string name="userPassword">Password</string>
+    <string name="buttonLogin">Iniciar Sesión</string>
+</resources>
